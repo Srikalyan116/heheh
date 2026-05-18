@@ -1,0 +1,17 @@
+{
+    "major_rules": [
+      "Addition or removal of a vital detail",
+      "Changes in any value (excluding formatting-only changes such as line breaks, <br>, spacing, or list closure)",
+      "Introduction of new information that significantly modifies the meaning"
+    ],
+    "minor_rules": [
+      "Word order changes that don't affect the overall meaning"
+    ],
+    "no_change_rules": [
+      "Any type of formatting changes or formatting adjustments, specially when its table markdown or table structure",
+      "In case of tables any type of formatting such as pipe counts, spacing, bold/italic/code ticks, markdown fences, HTML border/align",
+      "Formatting changes observed, such as bold text and quotes around values",
+      "Grammar or punctuation adjustments",
+      "Capitalization from lower to upper case or upper to lower cases"
+    ]
+}
